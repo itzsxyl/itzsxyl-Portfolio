@@ -2,7 +2,7 @@
 
 ## Cybersecurity Student | Future Penetration Tester
 
-I am focused on building strong foundations in cybersecurity, ethical hacking, Linux, networking, Python, and digital systems.
+I am focused on building strong foundations in cybersecurity, ethical hacking, bug bounty, Linux, networking, Python, and digital systems.
 
 My long-term mission is to become a professional penetration tester, build financial independence, and create practical technology solutions through discipline, faith, and continuous learning.
 
